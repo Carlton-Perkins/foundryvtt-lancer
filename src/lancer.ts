@@ -2,7 +2,7 @@
  * TypeScript entry file for Lancer on Foundry VTT.
  * Registers custom settings, sheets, and constants using the Foundry API.
  *
- * Author: Eranziel
+ * Author: Carlton-Perkins
  * Content License: LANCER is copyright 2019, Massif Press Inc.
  * Software License: GNU GPLv3
  */
@@ -1110,7 +1110,7 @@ async function showChangelog() {
     // Get an automatic changelog for our version
     let req = $.get(
       // @ts-expect-error Should be fixed with v10 types
-      `https://raw.githubusercontent.com/Eranziel/foundryvtt-lancer/v${game.system.version}/CHANGELOG.md`
+      `https://raw.githubusercontent.com/Carlton-Perkins/foundryvtt-lancer/v${game.system.version}/CHANGELOG.md`
     );
     req.done(async (data, _status) => {
       // Regex magic to only grab the first 25 lines
