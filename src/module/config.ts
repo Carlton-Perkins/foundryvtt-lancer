@@ -21,8 +21,8 @@ export function WELCOME(changelog: string): string {
   </div>
   <h2>Welcome to Lancer on Foundry!</h2>
   <p>If you haven't already, check out the project wiki for 
-  <a href="https://github.com/Eranziel/foundryvtt-lancer/wiki/FAQ">FAQ</a>
-  and a list of <a href="https://github.com/Eranziel/foundryvtt-lancer/wiki/Resources">recommended modules</a>, as well
+  <a href="https://github.com/Carlton-Perkins/foundryvtt-lancer/wiki/FAQ">FAQ</a>
+  and a list of <a href="https://github.com/Carlton-Perkins/foundryvtt-lancer/wiki/Resources">recommended modules</a>, as well
   as other information about how to use the system.</p>
   
   <span>Special thanks to <a class="center" href="https://www.retrogrademinis.com/">Retrograde Minis</a> for our default token artwork.</span>
@@ -34,7 +34,7 @@ export function WELCOME(changelog: string): string {
   </div>
 
   <p>You can report issues on GitHub here: 
-  <a href="https://github.com/Eranziel/foundryvtt-lancer/issues">https://github.com/Eranziel/foundryvtt-lancer/issues</a></p>
+  <a href="https://github.com/Carlton-Perkins/foundryvtt-lancer/issues">https://github.com/Carlton-Perkins/foundryvtt-lancer/issues</a></p>
   <br/>
   <h2>Legal</h2>
   <p>"Lancer for FoundryVTT" is not an official <i>Lancer</i> product; it is a third party work, and is not affiliated with Massif Press. "Lancer for FoundryVTT" is published via the <i>Lancer</i> Third Party License.</p>
@@ -45,7 +45,7 @@ export function WELCOME(changelog: string): string {
     ${changelog}
   </p>
   
-  <p><a href="https://github.com/Eranziel/foundryvtt-lancer/blob/master/CHANGELOG.md">Click here for the full changelog.</a></p>
+  <p><a href="https://github.com/Carlton-Perkins/foundryvtt-lancer/blob/master/CHANGELOG.md">Click here for the full changelog.</a></p>
   </div>
   `;
 }

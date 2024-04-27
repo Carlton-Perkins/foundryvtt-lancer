@@ -19,7 +19,7 @@ Additionally, a huge thank you and shout out to Animu36, Staubz, and Grygon for 
 
 ## Setup and FAQ
 
-Please see [our wiki](https://github.com/Eranziel/foundryvtt-lancer/wiki) for guides and commonly asked questions.
+Please see [our wiki](https://github.com/Carlton-Perkins/foundryvtt-lancer/wiki) for guides and commonly asked questions.
 
 ## System Installation
 
@@ -27,7 +27,7 @@ Simply search for Lancer in the Foundry system browser and install from there.
 
 ## Development Setup
 
-[See here](https://github.com/Eranziel/foundryvtt-lancer/wiki/Development-Setup)
+[See here](https://github.com/Carlton-Perkins/foundryvtt-lancer/wiki/Development-Setup)
 
 ## Legal
 
